@@ -1,0 +1,71 @@
+/**********************TAG SELECTORS****************/
+
+body {
+  background-color: black;
+}
+
+a {
+  color: #f7f7f7;
+  font-family: sans-serif;
+}
+
+a:hover {
+  color: blue}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1 {
+  color: #f7f7f7;
+  font-family: sans-serif;
+}
+
+h3 {
+  color: #f7f7f7;
+  font-family: sans-serif;
+}
+
+label {
+  color: #f7f7f7;
+  font-family: sans-serif;
+}
+
+ul {
+  color: #f7f7f7;
+  font-family: sans-serif;
+}
+
+li {
+  color: #f7f7f7;
+  font-family: sans-serif;
+}
+
+ol {
+  color: #f7f7f7;
+  font-family: sans-serif;
+}
+
+p {
+  color: #f7f7f7;
+  font-family: sans-serif;
+}
+
+table {
+  color: #f7f7f7;
+  font-family: sans-serif;
+}
+
+/**********************CLASS SELECTORS****************/
+
+
+
+
+
+
+
+/**********************ID SELECTORS******************/
